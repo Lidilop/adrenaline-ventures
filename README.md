@@ -31,6 +31,7 @@ Thank you for checking out Adrenaline Ventures Web! This web project aims to off
 
 - HTML
 - CSS
+- No Responsive
 
 ## Contributors
 
@@ -43,3 +44,7 @@ Thank you for checking out Adrenaline Ventures Web! This web project aims to off
 ---
 
 Thank you for using Adrenaline Ventures Web! We hope you find it useful and appreciate any feedback you may have. Happy coding!
+
+------
+
+Link page :  https://lidilop.github.io/adrenaline-ventures/pages/testimonial.html
